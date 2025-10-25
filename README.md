@@ -4,7 +4,7 @@
 
 A simple but functional clone of the classic **Breakout** arcade game, built in Unity as part of my **20 Games Challenge** to level up as a game developer.
 
-![Breakout Banner](Assets/Images/breakout-banner.png) <!-- Optional: Add a screenshot or banner -->
+![Breakout Banner](1.gif) <!-- Optional: Add a screenshot or banner -->
 
 ---
 
@@ -14,8 +14,8 @@ A simple but functional clone of the classic **Breakout** arcade game, built in 
 - Ball physics with bounce logic
 - Brick collision & destruction
 - Multiple lives
-- Score tracking
-- Game over and restart handling
+- Score tracking with paddle getting smaller every 5 score
+- Game over and restart handling, ball goes to paddle and we press space to launch it again
 
 ---
 
@@ -28,11 +28,11 @@ A simple but functional clone of the classic **Breakout** arcade game, built in 
 
 ---
 
-## 📸 Screenshots
-
-<!-- Replace with actual screenshots -->
-![Gameplay](Assets/Images/breakout-1.png)
-![Game Over](Assets/Images/breakout-2.png)
+## 📸 Video
+Paddle getting smaller
+![Gameplay](2.gif)
+Ball going to paddle after losing a life
+![Game Over](3.gif)
 
 ---
 
