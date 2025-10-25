@@ -30,9 +30,12 @@ A simple but functional clone of the classic **Breakout** arcade game, built in 
 
 ## 📸 Video
 Paddle getting smaller
-![Gameplay](2.gif)
+
+  ![Gameplay](2.gif)
+
 Ball going to paddle after losing a life
-![Game Over](3.gif)
+
+  ![Game Over](3.gif)
 
 ---
 
